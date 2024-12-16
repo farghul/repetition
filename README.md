@@ -1,5 +1,8 @@
 # Repetition
+
 My third Java assignment for Programming 1 (COMP 1501) involving repetition (loops).
+
+![Java](java.webp)
 
 ## Problem 1 Scenario: Projectile Motion Revisited
 
